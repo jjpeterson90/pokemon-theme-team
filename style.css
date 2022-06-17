@@ -1,0 +1,16 @@
+.card-img-top {
+    width: 96px;
+    height: 96px;
+}
+
+#background {
+    background-image: url("img/background.webp");
+    background-position: bottom;
+    background-size: cover;
+}
+
+#title {
+    object-fit: cover;
+    width: 600px;
+    height: 200px;
+}
